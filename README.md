@@ -8,4 +8,6 @@ To make the program to work, it requires python 3 or higher,to verify that you h
 
 If you want you cen open the main.py file or the AI Assistant.exe shortcut
 
+NOTE to run the .exe file go to the 'dist' folder
+
 Hope to enjoy :)
